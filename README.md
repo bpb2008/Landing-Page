@@ -1,2 +1,3 @@
 # Landing-Page
 More CSS practice! 
+Hello there! I will be putting my new CSS and Flexbox knowledge to the test by creating a landing page. One thing I do outside of coding is create Disney and other nerdy fashion content on social media. This landing page will hopefully be the start of a website/blog that I can use for more in depth pop culture discussions and reviews. And maybe an online media kit that I can share with brands? We'll see! 
