@@ -13,6 +13,10 @@ body {
 
 h1 {
     text-align: center;
+    color:#08a4cf;
+    background-color: lavenderblush;
+    padding: 30px;
+    margin-top: 0px;
 }
 
 .social {
@@ -30,6 +34,8 @@ h1 {
 .navigation {
     background-color:lavenderblush;
     display: flex;
+    min-width: 300px;
+    min-height: 850px;
 
 }
 
@@ -47,15 +53,24 @@ button {
     color:#e7f5f9;
 }
 
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 20%;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
 h2 {
     text-align: center;
 }
 
 p {
     background-color:#e7f5f9;
-    border-style: solid;
-    border-color: #08a4cf;
-    border-radius: 30px;
     padding: 20px;
     text-align: center;
 }
@@ -67,18 +82,23 @@ a, a:visited, a:active {
 
 ul {
     list-style-type: none;
+    margin: 0;
+    padding: 10px;
 }
 
 li {
     color: #08a4cf;
+    font-size: 24px;
 }
 
-* {
-    border-style: solid;
-    border-color: #ff0000;
-}
 
 footer {
-    display: flex;
     background-color:#e7f5f9
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
 }
